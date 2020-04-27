@@ -1,0 +1,6 @@
+"method","uri","body"
+"get","http://localhost:8080/api/users",""
+"get","http://localhost:8080/api/users/5",""
+"post","http://localhost:8080/api/users","{\""firstName\"":\""John\"",\""lastName\"":\""Doe\"",\""age\"":21}"
+"put","http://localhost:8080/api/users/3","{\""firstName\"":\""John\"",\""lastName\"":\""Doe\"",\""age\"":27}"
+"delete","http://localhost:8080/api/users/3",""
